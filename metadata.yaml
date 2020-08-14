@@ -1,0 +1,43 @@
+_repo: Pork-Slaughtering-Cutting-Preserving-and-Cooking-on-the-Farm_62859
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: West, R. L. (Roger Lawrence)
+    aliases:
+    - West, Roger L.
+    - West, Roger Lawrence
+    birthdate: 1945
+    gutenberg_agent_id: '52152'
+    url: http://www.gutenberg.org/2009/agents/52152
+  - agent_name: Cross, H. Russell
+    gutenberg_agent_id: '52149'
+    url: http://www.gutenberg.org/2009/agents/52149
+  - agent_name: Green, E. Curtis
+    gutenberg_agent_id: '52150'
+    url: http://www.gutenberg.org/2009/agents/52150
+  - agent_name: Jones, William R.
+    gutenberg_agent_id: '52151'
+    url: http://www.gutenberg.org/2009/agents/52151
+  - agent_name: Kotula, Anthony
+    alias: Kotula, Anthony W.
+    gutenberg_agent_id: '52153'
+    url: http://www.gutenberg.org/2009/agents/52153
+description: ''
+gutenberg_issued: '2020-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Department of Agriculture. Farmers' bulletin no. 2265
+subjects:
+- !lcsh 'Pork'
+- !lcsh 'Slaughtering and slaughter-houses'
+- !lcc 'SF'
+- !lcsh 'Pork industry and trade'
+- !lcsh 'Meat cutting'
+- GITenberg
+title: Pork Slaughtering, Cutting, Preserving, and Cooking on the Farm
+url: http://www.gutenberg.org/ebooks/62859
